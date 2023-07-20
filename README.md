@@ -37,3 +37,6 @@ Looking through our data and charts, there are a few different things we were ab
 First is that of the drugs used as treatement for the tumors, Capomulin and Ramicane had the greatest effect in reducing the tumor size. 
 Secondly, we saw a strong positive correlation between mouse weight and average tumor volume (0.84). This indicates to us that as mouse weight increases, average tumor volume will also. 
 And our final observation is that while all the drugs were tested, Capomulin and Ramicane had the most test subjects. 
+
+
+All code was written by following examples provided by UO Data Analytics class. Similar to last assignment, ignore dependency was provided by Thomas Tellner to clean up some of the future warnings. 
